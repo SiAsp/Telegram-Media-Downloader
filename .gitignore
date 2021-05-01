@@ -1,0 +1,8 @@
+config.cfg
+
+__pycache__/
+.vscode/
+.DS_Store
+*.session
+
+downloads/
